@@ -48,4 +48,4 @@ const app = express();
 
 app.set('view engine', 'ejs');
 app.use(express.static('sajt'));
-app.listen(8000);
+app.listen(process.env.PORT || 5000);
