@@ -1,1 +1,1 @@
-web: node sajt/index.html
+web: node server.js
