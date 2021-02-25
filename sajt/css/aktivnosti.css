@@ -1,0 +1,46 @@
+.a0a
+{
+    color: white;
+    width: 23em;
+    margin: 0 auto;
+    padding: 3em; 
+    text-align: center;
+    background-color: rgb(221, 166, 15); 
+}
+
+.a0a a
+{
+    text-decoration: none; 
+    color: white;
+}
+
+#a0aLink1:hover
+{
+    color: rgb(0, 0, 0);
+}
+
+.aktivnostiMeni
+{
+    width: 15em; 
+    margin: 0 auto;
+    text-align: center;  
+    padding: 1em;
+}
+
+.aktivnostiMeni a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.aktivnostiMeni li
+{
+    list-style: none; 
+    padding: 0.4em;
+    background-color: teal;
+}
+
+.aktivnostiMeni li:hover
+{
+    opacity: 0.7;
+}
